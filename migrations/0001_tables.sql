@@ -27,7 +27,7 @@ CREATE TABLE public.books (
     name_tam character varying NOT NULL,
     name_tam_long character varying NOT NULL,
     abbreviation character varying NOT NULL,
-    no_of_chapters integer NOT NULL,
+    no_of_chapters integer DEFAULT 0 NOT NULL,
     testament public.testament_type NOT NULL,
     description text
 );
