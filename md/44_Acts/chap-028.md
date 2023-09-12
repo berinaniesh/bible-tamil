@@ -1,5 +1,5 @@
 ---
-title:  28
+title: Acts 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  68
+title: Psalms 68
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

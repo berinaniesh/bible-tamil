@@ -1,5 +1,5 @@
 ---
-title:  149
+title: Psalms 149
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

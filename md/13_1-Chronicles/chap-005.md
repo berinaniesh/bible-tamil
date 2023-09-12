@@ -1,5 +1,5 @@
 ---
-title:  5
+title: 1-Chronicles 5
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  8
+title: Ezekiel 8
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

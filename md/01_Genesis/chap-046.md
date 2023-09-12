@@ -1,5 +1,5 @@
 ---
-title:  46
+title: Genesis 46
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

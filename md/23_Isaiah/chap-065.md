@@ -1,5 +1,5 @@
 ---
-title:  65
+title: Isaiah 65
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

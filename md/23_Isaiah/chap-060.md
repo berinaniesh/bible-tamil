@@ -1,5 +1,5 @@
 ---
-title:  60
+title: Isaiah 60
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

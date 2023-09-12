@@ -1,5 +1,5 @@
 ---
-title:  6
+title: Proverbs 6
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

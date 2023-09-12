@@ -1,5 +1,5 @@
 ---
-title:  89
+title: Psalms 89
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

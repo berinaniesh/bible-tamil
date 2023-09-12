@@ -1,5 +1,5 @@
 ---
-title:  97
+title: Psalms 97
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

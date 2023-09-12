@@ -1,5 +1,5 @@
 ---
-title:  101
+title: Psalms 101
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

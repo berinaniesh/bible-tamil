@@ -1,5 +1,5 @@
 ---
-title:  14
+title: Exodus 14
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

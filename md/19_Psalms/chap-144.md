@@ -1,5 +1,5 @@
 ---
-title:  144
+title: Psalms 144
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

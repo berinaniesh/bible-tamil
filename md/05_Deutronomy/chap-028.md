@@ -1,5 +1,5 @@
 ---
-title:  28
+title: Deutronomy 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

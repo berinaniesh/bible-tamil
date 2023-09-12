@@ -1,5 +1,5 @@
 ---
-title:  104
+title: Psalms 104
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

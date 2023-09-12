@@ -1,5 +1,5 @@
 ---
-title:  33
+title: Ezekiel 33
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

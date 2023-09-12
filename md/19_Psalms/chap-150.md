@@ -1,5 +1,5 @@
 ---
-title:  150
+title: Psalms 150
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  99
+title: Psalms 99
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

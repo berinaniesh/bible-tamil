@@ -1,5 +1,5 @@
 ---
-title:  51
+title: Psalms 51
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  24
+title: Matthew 24
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  117
+title: Psalms 117
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

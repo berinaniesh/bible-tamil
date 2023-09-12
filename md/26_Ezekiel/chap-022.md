@@ -1,5 +1,5 @@
 ---
-title:  22
+title: Ezekiel 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

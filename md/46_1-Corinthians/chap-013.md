@@ -1,5 +1,5 @@
 ---
-title:  13
+title: 1-Corinthians 13
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

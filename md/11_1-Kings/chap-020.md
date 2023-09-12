@@ -1,5 +1,5 @@
 ---
-title:  20
+title: 1-Kings 20
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

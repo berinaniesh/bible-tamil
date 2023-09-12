@@ -1,5 +1,5 @@
 ---
-title:  83
+title: Psalms 83
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

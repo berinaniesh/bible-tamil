@@ -1,5 +1,5 @@
 ---
-title:  15
+title: 1-Samuel 15
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

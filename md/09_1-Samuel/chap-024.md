@@ -1,5 +1,5 @@
 ---
-title:  24
+title: 1-Samuel 24
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

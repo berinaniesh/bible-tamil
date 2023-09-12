@@ -1,5 +1,5 @@
 ---
-title:  66
+title: Psalms 66
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

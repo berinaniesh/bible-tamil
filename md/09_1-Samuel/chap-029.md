@@ -1,5 +1,5 @@
 ---
-title:  29
+title: 1-Samuel 29
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

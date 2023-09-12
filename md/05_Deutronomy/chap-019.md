@@ -1,5 +1,5 @@
 ---
-title:  19
+title: Deutronomy 19
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

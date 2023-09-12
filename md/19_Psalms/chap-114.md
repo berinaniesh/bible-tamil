@@ -1,5 +1,5 @@
 ---
-title:  114
+title: Psalms 114
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

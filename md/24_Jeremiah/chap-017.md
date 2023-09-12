@@ -1,5 +1,5 @@
 ---
-title:  17
+title: Jeremiah 17
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

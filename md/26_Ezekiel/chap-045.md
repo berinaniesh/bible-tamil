@@ -1,5 +1,5 @@
 ---
-title:  45
+title: Ezekiel 45
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  64
+title: Isaiah 64
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

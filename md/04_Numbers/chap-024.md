@@ -1,5 +1,5 @@
 ---
-title:  24
+title: Numbers 24
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  67
+title: Psalms 67
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

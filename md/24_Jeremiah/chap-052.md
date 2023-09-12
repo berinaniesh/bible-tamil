@@ -1,5 +1,5 @@
 ---
-title:  52
+title: Jeremiah 52
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  79
+title: Psalms 79
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  12
+title: Joshua 12
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

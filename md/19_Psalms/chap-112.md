@@ -1,5 +1,5 @@
 ---
-title:  112
+title: Psalms 112
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

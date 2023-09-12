@@ -1,5 +1,5 @@
 ---
-title:  13
+title: Revelations 13
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

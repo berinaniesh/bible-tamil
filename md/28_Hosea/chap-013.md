@@ -1,5 +1,5 @@
 ---
-title:  13
+title: Hosea 13
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

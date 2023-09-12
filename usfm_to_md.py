@@ -50,7 +50,7 @@ for file in glob.glob("./usfm/*"):
                 Path(file_to_edit).touch()
                 file1 = open(file_to_edit, "a")
                 file1.write("---\n")
-                file1.write("title: " + book_name + " " + chapter_number + "\n")
+                file1.write("title: " + f"{folder_name[3:]}{book_name}" + " " + chapter_number + "\n")
                 file1.write("lang: ta\n")
                 file1.write("mainfont: Noto Sans Tamil Regular\n")
                 file1.write("---\n\n")

@@ -1,5 +1,5 @@
 ---
-title:  15
+title: Proverbs 15
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

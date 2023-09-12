@@ -1,5 +1,5 @@
 ---
-title:  128
+title: Psalms 128
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  118
+title: Psalms 118
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

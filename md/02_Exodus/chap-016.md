@@ -1,5 +1,5 @@
 ---
-title:  16
+title: Exodus 16
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

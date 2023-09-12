@@ -1,5 +1,5 @@
 ---
-title:  82
+title: Psalms 82
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

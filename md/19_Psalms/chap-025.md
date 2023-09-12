@@ -1,5 +1,5 @@
 ---
-title:  25
+title: Psalms 25
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

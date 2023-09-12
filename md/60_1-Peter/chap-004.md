@@ -1,5 +1,5 @@
 ---
-title:  4
+title: 1-Peter 4
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

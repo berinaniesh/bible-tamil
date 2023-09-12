@@ -1,5 +1,5 @@
 ---
-title:  121
+title: Psalms 121
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

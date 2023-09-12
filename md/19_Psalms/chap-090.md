@@ -1,5 +1,5 @@
 ---
-title:  90
+title: Psalms 90
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

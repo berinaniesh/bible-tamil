@@ -1,5 +1,5 @@
 ---
-title:  115
+title: Psalms 115
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

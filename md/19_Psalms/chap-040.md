@@ -1,5 +1,5 @@
 ---
-title:  40
+title: Psalms 40
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

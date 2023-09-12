@@ -1,5 +1,5 @@
 ---
-title:  34
+title: Exodus 34
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

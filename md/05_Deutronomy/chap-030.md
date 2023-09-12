@@ -1,5 +1,5 @@
 ---
-title:  30
+title: Deutronomy 30
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

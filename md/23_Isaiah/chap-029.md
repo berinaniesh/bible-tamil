@@ -1,5 +1,5 @@
 ---
-title:  29
+title: Isaiah 29
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  35
+title: Isaiah 35
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

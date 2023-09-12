@@ -1,5 +1,5 @@
 ---
-title:  136
+title: Psalms 136
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

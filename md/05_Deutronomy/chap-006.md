@@ -1,5 +1,5 @@
 ---
-title:  6
+title: Deutronomy 6
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

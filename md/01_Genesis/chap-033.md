@@ -1,5 +1,5 @@
 ---
-title:  33
+title: Genesis 33
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  1
+title: Song-of-Solomon 1
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  55
+title: Isaiah 55
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

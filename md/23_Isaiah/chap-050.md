@@ -1,5 +1,5 @@
 ---
-title:  50
+title: Isaiah 50
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

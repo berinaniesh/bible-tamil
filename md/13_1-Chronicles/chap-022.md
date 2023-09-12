@@ -1,5 +1,5 @@
 ---
-title:  22
+title: 1-Chronicles 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  77
+title: Psalms 77
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

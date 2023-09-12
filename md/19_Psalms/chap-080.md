@@ -1,5 +1,5 @@
 ---
-title:  80
+title: Psalms 80
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  48
+title: Jeremiah 48
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

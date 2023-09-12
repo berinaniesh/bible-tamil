@@ -1,5 +1,5 @@
 ---
-title:  26
+title: Psalms 26
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  7
+title: Genesis 7
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

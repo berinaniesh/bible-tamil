@@ -1,5 +1,5 @@
 ---
-title:  8
+title: Proverbs 8
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

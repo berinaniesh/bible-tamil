@@ -1,5 +1,5 @@
 ---
-title:  142
+title: Psalms 142
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

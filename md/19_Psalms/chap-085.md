@@ -1,5 +1,5 @@
 ---
-title:  85
+title: Psalms 85
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

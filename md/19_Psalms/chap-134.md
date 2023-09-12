@@ -1,5 +1,5 @@
 ---
-title:  134
+title: Psalms 134
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  102
+title: Psalms 102
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

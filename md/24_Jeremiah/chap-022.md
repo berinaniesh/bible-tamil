@@ -1,5 +1,5 @@
 ---
-title:  22
+title: Jeremiah 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

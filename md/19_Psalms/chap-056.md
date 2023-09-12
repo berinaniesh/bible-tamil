@@ -1,5 +1,5 @@
 ---
-title:  56
+title: Psalms 56
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

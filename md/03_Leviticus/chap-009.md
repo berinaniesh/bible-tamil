@@ -1,5 +1,5 @@
 ---
-title:  9
+title: Leviticus 9
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

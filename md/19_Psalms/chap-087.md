@@ -1,5 +1,5 @@
 ---
-title:  87
+title: Psalms 87
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  18
+title: 1-Samuel 18
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

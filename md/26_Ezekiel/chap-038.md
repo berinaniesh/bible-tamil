@@ -1,5 +1,5 @@
 ---
-title:  38
+title: Ezekiel 38
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

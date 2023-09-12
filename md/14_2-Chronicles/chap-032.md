@@ -1,5 +1,5 @@
 ---
-title:  32
+title: 2-Chronicles 32
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

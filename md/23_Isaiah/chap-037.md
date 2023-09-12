@@ -1,5 +1,5 @@
 ---
-title:  37
+title: Isaiah 37
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

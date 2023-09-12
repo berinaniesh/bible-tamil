@@ -1,5 +1,5 @@
 ---
-title:  60
+title: Psalms 60
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

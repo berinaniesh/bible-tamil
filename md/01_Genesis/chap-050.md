@@ -1,5 +1,5 @@
 ---
-title:  50
+title: Genesis 50
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

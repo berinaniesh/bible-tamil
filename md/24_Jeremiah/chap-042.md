@@ -1,5 +1,5 @@
 ---
-title:  42
+title: Jeremiah 42
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

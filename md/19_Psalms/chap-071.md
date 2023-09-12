@@ -1,5 +1,5 @@
 ---
-title:  71
+title: Psalms 71
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

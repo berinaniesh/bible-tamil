@@ -1,5 +1,5 @@
 ---
-title:  19
+title: Judges 19
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

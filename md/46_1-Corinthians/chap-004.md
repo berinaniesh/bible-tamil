@@ -1,5 +1,5 @@
 ---
-title:  4
+title: 1-Corinthians 4
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

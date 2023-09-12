@@ -1,5 +1,5 @@
 ---
-title:  122
+title: Psalms 122
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

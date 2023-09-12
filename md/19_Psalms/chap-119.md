@@ -1,5 +1,5 @@
 ---
-title:  119
+title: Psalms 119
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

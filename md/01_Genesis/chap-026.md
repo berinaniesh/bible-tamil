@@ -1,5 +1,5 @@
 ---
-title:  26
+title: Genesis 26
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

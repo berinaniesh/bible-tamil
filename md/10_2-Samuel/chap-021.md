@@ -1,5 +1,5 @@
 ---
-title:  21
+title: 2-Samuel 21
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

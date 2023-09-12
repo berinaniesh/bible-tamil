@@ -1,5 +1,5 @@
 ---
-title:  57
+title: Psalms 57
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

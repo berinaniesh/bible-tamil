@@ -1,5 +1,5 @@
 ---
-title:  143
+title: Psalms 143
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  44
+title: Isaiah 44
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  72
+title: Psalms 72
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

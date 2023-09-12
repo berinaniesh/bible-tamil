@@ -1,5 +1,5 @@
 ---
-title:  8
+title: 1-Corinthians 8
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

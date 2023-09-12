@@ -1,5 +1,5 @@
 ---
-title:  18
+title: Joshua 18
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

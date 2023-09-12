@@ -1,5 +1,5 @@
 ---
-title:  41
+title: Isaiah 41
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

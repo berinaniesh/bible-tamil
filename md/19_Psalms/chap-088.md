@@ -1,5 +1,5 @@
 ---
-title:  88
+title: Psalms 88
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

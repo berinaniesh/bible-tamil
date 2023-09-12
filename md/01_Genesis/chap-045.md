@@ -1,5 +1,5 @@
 ---
-title:  45
+title: Genesis 45
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

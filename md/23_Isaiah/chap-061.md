@@ -1,5 +1,5 @@
 ---
-title:  61
+title: Isaiah 61
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

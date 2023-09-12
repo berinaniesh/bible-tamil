@@ -1,5 +1,5 @@
 ---
-title:  28
+title: Psalms 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

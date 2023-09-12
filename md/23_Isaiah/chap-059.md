@@ -1,5 +1,5 @@
 ---
-title:  59
+title: Isaiah 59
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

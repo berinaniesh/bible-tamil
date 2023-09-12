@@ -1,5 +1,5 @@
 ---
-title:  129
+title: Psalms 129
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

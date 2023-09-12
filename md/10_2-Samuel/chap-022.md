@@ -1,5 +1,5 @@
 ---
-title:  22
+title: 2-Samuel 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

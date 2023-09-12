@@ -1,5 +1,5 @@
 ---
-title:  36
+title: Isaiah 36
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

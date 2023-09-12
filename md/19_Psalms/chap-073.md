@@ -1,5 +1,5 @@
 ---
-title:  73
+title: Psalms 73
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

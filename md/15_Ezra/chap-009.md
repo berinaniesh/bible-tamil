@@ -1,5 +1,5 @@
 ---
-title:  9
+title: Ezra 9
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

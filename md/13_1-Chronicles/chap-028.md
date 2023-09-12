@@ -1,5 +1,5 @@
 ---
-title:  28
+title: 1-Chronicles 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

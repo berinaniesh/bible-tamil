@@ -1,5 +1,5 @@
 ---
-title:  3
+title: 2-Peter 3
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

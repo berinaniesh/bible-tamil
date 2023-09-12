@@ -1,5 +1,5 @@
 ---
-title:  14
+title: 1-Samuel 14
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

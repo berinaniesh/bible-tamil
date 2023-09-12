@@ -1,5 +1,5 @@
 ---
-title:  34
+title: Deutronomy 34
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

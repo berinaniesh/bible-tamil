@@ -1,5 +1,5 @@
 ---
-title:  127
+title: Psalms 127
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  27
+title: 2-Chronicles 27
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

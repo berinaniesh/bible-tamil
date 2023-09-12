@@ -1,5 +1,5 @@
 ---
-title:  108
+title: Psalms 108
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  40
+title: Jeremiah 40
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

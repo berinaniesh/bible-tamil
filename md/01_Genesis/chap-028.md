@@ -1,5 +1,5 @@
 ---
-title:  28
+title: Genesis 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

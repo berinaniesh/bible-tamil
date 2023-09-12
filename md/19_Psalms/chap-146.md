@@ -1,5 +1,5 @@
 ---
-title:  146
+title: Psalms 146
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

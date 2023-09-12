@@ -1,5 +1,5 @@
 ---
-title:  26
+title: Matthew 26
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

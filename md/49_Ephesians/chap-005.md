@@ -1,5 +1,5 @@
 ---
-title:  5
+title: Ephesians 5
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

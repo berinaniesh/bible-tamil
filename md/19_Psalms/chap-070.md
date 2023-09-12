@@ -1,5 +1,5 @@
 ---
-title:  70
+title: Psalms 70
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

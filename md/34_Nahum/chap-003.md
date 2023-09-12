@@ -1,5 +1,5 @@
 ---
-title:  3
+title: Nahum 3
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

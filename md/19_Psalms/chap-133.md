@@ -1,5 +1,5 @@
 ---
-title:  133
+title: Psalms 133
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

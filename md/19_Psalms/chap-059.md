@@ -1,5 +1,5 @@
 ---
-title:  59
+title: Psalms 59
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

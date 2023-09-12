@@ -1,5 +1,5 @@
 ---
-title:  84
+title: Psalms 84
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  111
+title: Psalms 111
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

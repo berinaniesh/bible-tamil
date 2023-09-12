@@ -1,5 +1,5 @@
 ---
-title:  23
+title: 2-Kings 23
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

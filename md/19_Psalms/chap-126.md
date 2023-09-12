@@ -1,5 +1,5 @@
 ---
-title:  126
+title: Psalms 126
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

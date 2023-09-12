@@ -1,5 +1,5 @@
 ---
-title:  29
+title: Exodus 29
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

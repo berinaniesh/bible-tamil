@@ -1,5 +1,5 @@
 ---
-title:  148
+title: Psalms 148
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

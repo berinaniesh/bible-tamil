@@ -1,5 +1,5 @@
 ---
-title:  124
+title: Psalms 124
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

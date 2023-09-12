@@ -1,5 +1,5 @@
 ---
-title:  20
+title: 2-Samuel 20
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

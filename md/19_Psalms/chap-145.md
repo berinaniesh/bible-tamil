@@ -1,5 +1,5 @@
 ---
-title:  145
+title: Psalms 145
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

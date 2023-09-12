@@ -1,5 +1,5 @@
 ---
-title:  92
+title: Psalms 92
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

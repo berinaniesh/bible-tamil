@@ -1,5 +1,5 @@
 ---
-title:  1
+title: Galatians 1
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

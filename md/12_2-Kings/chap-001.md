@@ -1,5 +1,5 @@
 ---
-title:  1
+title: 2-Kings 1
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

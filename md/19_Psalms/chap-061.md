@@ -1,5 +1,5 @@
 ---
-title:  61
+title: Psalms 61
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

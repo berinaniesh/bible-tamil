@@ -1,5 +1,5 @@
 ---
-title:  95
+title: Psalms 95
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

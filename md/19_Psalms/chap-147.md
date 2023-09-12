@@ -1,5 +1,5 @@
 ---
-title:  147
+title: Psalms 147
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

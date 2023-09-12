@@ -1,5 +1,5 @@
 ---
-title:  37
+title: Exodus 37
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

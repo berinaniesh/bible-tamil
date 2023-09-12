@@ -1,5 +1,5 @@
 ---
-title:  39
+title: Genesis 39
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

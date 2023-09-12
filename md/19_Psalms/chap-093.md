@@ -1,5 +1,5 @@
 ---
-title:  93
+title: Psalms 93
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

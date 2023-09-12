@@ -1,5 +1,5 @@
 ---
-title:  54
+title: Isaiah 54
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

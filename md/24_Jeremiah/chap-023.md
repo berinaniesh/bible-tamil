@@ -1,5 +1,5 @@
 ---
-title:  23
+title: Jeremiah 23
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  131
+title: Psalms 131
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

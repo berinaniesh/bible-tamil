@@ -1,5 +1,5 @@
 ---
-title:  63
+title: Isaiah 63
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

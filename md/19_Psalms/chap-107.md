@@ -1,5 +1,5 @@
 ---
-title:  107
+title: Psalms 107
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  11
+title: Genesis 11
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

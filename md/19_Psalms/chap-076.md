@@ -1,5 +1,5 @@
 ---
-title:  76
+title: Psalms 76
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

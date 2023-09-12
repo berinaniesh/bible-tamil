@@ -1,5 +1,5 @@
 ---
-title:  34
+title: Genesis 34
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

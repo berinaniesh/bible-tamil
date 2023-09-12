@@ -1,5 +1,5 @@
 ---
-title:  31
+title: 2-Chronicles 31
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

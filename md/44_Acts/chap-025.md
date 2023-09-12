@@ -1,5 +1,5 @@
 ---
-title:  25
+title: Acts 25
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

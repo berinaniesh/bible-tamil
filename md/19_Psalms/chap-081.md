@@ -1,5 +1,5 @@
 ---
-title:  81
+title: Psalms 81
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

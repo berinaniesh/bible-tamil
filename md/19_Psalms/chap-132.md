@@ -1,5 +1,5 @@
 ---
-title:  132
+title: Psalms 132
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

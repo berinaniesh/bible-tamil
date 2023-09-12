@@ -1,5 +1,5 @@
 ---
-title:  17
+title: Judges 17
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

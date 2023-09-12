@@ -1,5 +1,5 @@
 ---
-title:  86
+title: Psalms 86
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

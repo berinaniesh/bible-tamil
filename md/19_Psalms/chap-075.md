@@ -1,5 +1,5 @@
 ---
-title:  75
+title: Psalms 75
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

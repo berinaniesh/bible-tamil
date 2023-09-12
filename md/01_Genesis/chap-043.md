@@ -1,5 +1,5 @@
 ---
-title:  43
+title: Genesis 43
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

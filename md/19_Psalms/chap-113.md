@@ -1,5 +1,5 @@
 ---
-title:  113
+title: Psalms 113
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

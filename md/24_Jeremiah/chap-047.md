@@ -1,5 +1,5 @@
 ---
-title:  47
+title: Jeremiah 47
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

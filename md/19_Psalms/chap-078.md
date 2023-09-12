@@ -1,5 +1,5 @@
 ---
-title:  78
+title: Psalms 78
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

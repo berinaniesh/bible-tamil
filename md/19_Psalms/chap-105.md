@@ -1,5 +1,5 @@
 ---
-title:  105
+title: Psalms 105
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  58
+title: Isaiah 58
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

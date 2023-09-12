@@ -1,5 +1,5 @@
 ---
-title:  58
+title: Psalms 58
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

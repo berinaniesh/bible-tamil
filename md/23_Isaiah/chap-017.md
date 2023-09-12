@@ -1,5 +1,5 @@
 ---
-title:  17
+title: Isaiah 17
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

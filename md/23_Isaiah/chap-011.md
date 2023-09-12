@@ -1,5 +1,5 @@
 ---
-title:  11
+title: Isaiah 11
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  51
+title: Isaiah 51
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

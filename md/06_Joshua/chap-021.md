@@ -1,5 +1,5 @@
 ---
-title:  21
+title: Joshua 21
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

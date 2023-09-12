@@ -1,5 +1,5 @@
 ---
-title:  16
+title: 1-Chronicles 16
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

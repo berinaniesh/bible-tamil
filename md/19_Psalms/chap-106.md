@@ -1,5 +1,5 @@
 ---
-title:  106
+title: Psalms 106
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

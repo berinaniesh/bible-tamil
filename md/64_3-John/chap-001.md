@@ -1,5 +1,5 @@
 ---
-title:  1
+title: 3-John 1
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

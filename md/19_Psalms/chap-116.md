@@ -1,5 +1,5 @@
 ---
-title:  116
+title: Psalms 116
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  11
+title: 1-Samuel 11
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  125
+title: Psalms 125
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

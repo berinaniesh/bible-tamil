@@ -1,5 +1,5 @@
 ---
-title:  7
+title: Esther 7
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

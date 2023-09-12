@@ -1,5 +1,5 @@
 ---
-title:  9
+title: 1-Samuel 9
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

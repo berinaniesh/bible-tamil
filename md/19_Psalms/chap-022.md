@@ -1,5 +1,5 @@
 ---
-title:  22
+title: Psalms 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  94
+title: Psalms 94
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

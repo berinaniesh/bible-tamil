@@ -1,5 +1,5 @@
 ---
-title:  10
+title: Proverbs 10
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

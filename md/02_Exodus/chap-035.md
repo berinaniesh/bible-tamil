@@ -1,5 +1,5 @@
 ---
-title:  35
+title: Exodus 35
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

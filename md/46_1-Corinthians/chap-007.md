@@ -1,5 +1,5 @@
 ---
-title:  7
+title: 1-Corinthians 7
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

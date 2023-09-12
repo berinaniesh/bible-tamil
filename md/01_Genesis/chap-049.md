@@ -1,5 +1,5 @@
 ---
-title:  49
+title: Genesis 49
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

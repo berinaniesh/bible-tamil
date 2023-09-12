@@ -1,5 +1,5 @@
 ---
-title:  31
+title: 1-Samuel 31
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

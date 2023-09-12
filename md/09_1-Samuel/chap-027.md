@@ -1,5 +1,5 @@
 ---
-title:  27
+title: 1-Samuel 27
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

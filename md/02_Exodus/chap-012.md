@@ -1,5 +1,5 @@
 ---
-title:  12
+title: Exodus 12
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

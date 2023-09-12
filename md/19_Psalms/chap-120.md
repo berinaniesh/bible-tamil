@@ -1,5 +1,5 @@
 ---
-title:  120
+title: Psalms 120
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

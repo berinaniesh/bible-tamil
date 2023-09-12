@@ -1,5 +1,5 @@
 ---
-title:  98
+title: Psalms 98
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

@@ -1,5 +1,5 @@
 ---
-title:  1
+title: Hebrews 1
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

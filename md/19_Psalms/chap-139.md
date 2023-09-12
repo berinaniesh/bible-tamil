@@ -1,5 +1,5 @@
 ---
-title:  139
+title: Psalms 139
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

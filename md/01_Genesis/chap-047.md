@@ -1,5 +1,5 @@
 ---
-title:  47
+title: Genesis 47
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

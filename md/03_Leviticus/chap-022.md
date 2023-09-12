@@ -1,5 +1,5 @@
 ---
-title:  22
+title: Leviticus 22
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

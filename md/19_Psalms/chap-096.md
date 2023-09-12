@@ -1,5 +1,5 @@
 ---
-title:  96
+title: Psalms 96
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

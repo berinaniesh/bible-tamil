@@ -1,5 +1,5 @@
 ---
-title:  69
+title: Psalms 69
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

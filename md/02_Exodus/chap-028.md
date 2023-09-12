@@ -1,5 +1,5 @@
 ---
-title:  28
+title: Exodus 28
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

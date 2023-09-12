@@ -1,5 +1,5 @@
 ---
-title:  46
+title: Jeremiah 46
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

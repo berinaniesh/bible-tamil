@@ -1,5 +1,5 @@
 ---
-title:  138
+title: Psalms 138
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

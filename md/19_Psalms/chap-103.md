@@ -1,5 +1,5 @@
 ---
-title:  103
+title: Psalms 103
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

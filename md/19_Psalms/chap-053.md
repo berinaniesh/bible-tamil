@@ -1,5 +1,5 @@
 ---
-title:  53
+title: Psalms 53
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---

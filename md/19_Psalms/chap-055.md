@@ -1,5 +1,5 @@
 ---
-title:  55
+title: Psalms 55
 lang: ta
 mainfont: Noto Sans Tamil Regular
 ---
