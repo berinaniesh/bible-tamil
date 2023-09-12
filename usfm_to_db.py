@@ -278,6 +278,32 @@ def insert_tam_books():
         )
     conn.commit()
 
+def insert_verses():
+    for i in range(len(book_names)):
+        texts = book_texts[i].split("\n")
+        last_chapter = 0
+        v_num = 0
+        verse = ""
+        l_id = 0
+        for text in texts:
+            if text.startswith(r"\c"):
+                last_chapter = int(text[3:].strip())
+                l_id = conn.execute("""
+                    INSERT INTO "Chapter" (book_id, chapter_number) VALUES ((SELECT id from "Book" where name=%s), %s) RETURNING id
+                """,
+                (book_names[i], last_chapter)).fetchone()[0]
+                conn.commit()
+            elif text.startswith(r"\v"):
+                v_num = int(text.split(" ")[1])
+                verse = " ".join(text.split(" ")[2:]).strip()
+                conn.execute("""
+                    INSERT INTO "Verse" (chapter_id, verse_number, "verse") VALUES 
+                    (%s, %s, %s)
+                """,
+                (l_id, v_num, verse)
+                )
+    conn.commit()
+
 add_lang("Tamil")
 add_translation(
     {
@@ -290,5 +316,7 @@ add_translation(
     }
 )
 insert_tam_books()
+
+insert_verses()
 
 conn.close()
