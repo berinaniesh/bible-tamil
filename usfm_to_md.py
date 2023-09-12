@@ -3,14 +3,9 @@ import os
 import subprocess
 from pathlib import Path
 
-# base_path = "/home/berinaniesh/Development/Bible-Tamil-Sathiyavedam-1957/"
-# pdf_path = "/home/berinaniesh/Development/Bible-Tamil-Sathiyavedam-1957/pdf/"
-# pptx_path = "/home/berinaniesh/Development/Bible-Tamil-Sathiyavedam-1957/pptx/"
-md_path = "/home/berinaniesh/Development/Bible-Tamil-Sathiyavedam-1957/md/"
+md_path = "./md/"
 
 subprocess.run(["rm", "-rf", md_path])
-# subprocess.run(["rm", "-rf", pptx_path])
-# subprocess.run(["rm", "-rf", pdf_path])
 
 def list_to_string(s): 
     str1 = " "  
@@ -22,7 +17,7 @@ def list_to_string_without_space(s):
         str1 += ele
     return str1 
 
-for file in glob.glob("/home/berinaniesh/Development/Bible-Tamil-Sathiyavedam-1957/usfm/*"):
+for file in glob.glob("./usfm/*"):
     folder_name = (Path(file).stem)
     try:
         os.makedirs(md_path + folder_name)
