@@ -60,7 +60,7 @@ for file in glob.glob("./usfm/*"):
                 verse_number = split_string[1]
                 verse = list_to_string(split_string[2:])
                 file1 = open(file_to_edit, "a")
-                file1.write("# " + book_name + " " + chapter_number + ":" + verse_number + "\n\n")
+                file1.write("### " + book_name + " " + chapter_number + ":" + verse_number + "\n\n")
                 file1.write(verse + "\n\n")
                 file1.close()
                 continue
