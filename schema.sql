@@ -26,7 +26,7 @@ CREATE TABLE "Translation" (
   "language_id" integer NOT NULL,
   "name" varchar UNIQUE NOT NULL,
   "full_name" varchar UNIQUE,
-  "year" varchar[4],
+  "year" varchar,
   "license" varchar,
   "description" text
 );
