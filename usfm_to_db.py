@@ -1,5 +1,6 @@
 import glob
 import psycopg
+from tqdm import tqdm
 
 book_div = {
     "Pentateuch": [
@@ -226,7 +227,7 @@ book_full_tam_names = [get_full_tam_name(i) for i in book_texts]
 book_ids = [get_id(i) for i in book_texts]
 book_divisions = [get_division(i) for i in book_names]
 
-conn = psycopg.connect(dbname="bible")
+conn = psycopg.connect(dbname="bible-dev")
 cur = conn.cursor()
 
 
@@ -250,36 +251,39 @@ def add_translation(translation):
     conn.commit()
 
 
-def insert_tam_books():
+def insert_books():
     for i in range(len(book_names)):
         conn.execute(
             """INSERT INTO "Book"
             ( 
-            "translation_id", "name", "long_name", 
-            "regional_name", "regional_long_name",
+            "name", "long_name", 
             "book_number", "abbreviation", "testament",
             "division"
             ) VALUES 
+            (%s, %s, %s, %s, %s, %s)""",
             (
-            (SELECT "id" from "Translation" WHERE "name"=%s),
-            %s, %s, %s, %s, %s, %s, %s, %s
-            )""",
-            (
-                "TOVBSI",
                 book_names[i],
                 book_full_english_names[i],
-                book_tam_names[i],
-                book_full_tam_names[i],
-                i+1,
+                i + 1,
                 book_ids[i],
                 get_testament(i),
-                book_divisions[i]
-            )
+                book_divisions[i],
+            ),
         )
     conn.commit()
 
-def insert_verses():
+def insert_translational_names():
     for i in range(len(book_names)):
+        conn.execute("""
+                 INSERT INTO "TranslationBookName" (translation_id, book_id, name, long_name) VALUES (
+                 (SELECT id from "Translation" where name='TOVBSI'),
+                 (SELECT id from "Book" where name=%s), %s, %s)
+                 """,
+                 (book_names[i], book_tam_names[i], book_full_tam_names[i]))
+    conn.commit()
+
+def insert_verses():
+    for i in tqdm(range(len(book_names))):
         texts = book_texts[i].split("\n")
         last_chapter = 0
         v_num = 0
@@ -288,19 +292,30 @@ def insert_verses():
         for text in texts:
             if text.startswith(r"\c"):
                 last_chapter = int(text[3:].strip())
-                l_id = conn.execute("""
+                l_id = conn.execute(
+                    """
                     INSERT INTO "Chapter" (book_id, chapter_number) VALUES ((SELECT id from "Book" where name=%s), %s) RETURNING id
                 """,
-                (book_names[i], last_chapter)).fetchone()[0]
+                    (book_names[i], last_chapter),
+                ).fetchone()[0]
                 conn.commit()
             elif text.startswith(r"\v"):
                 v_num = int(text.split(" ")[1])
                 verse = " ".join(text.split(" ")[2:]).strip()
-                conn.execute("""
-                    INSERT INTO "Verse" (chapter_id, verse_number, "verse") VALUES 
-                    (%s, %s, %s)
+                v_id = conn.execute(
+                    """
+                    INSERT INTO "Verse" (chapter_id, verse_number) VALUES (%s, %s) RETURNING id
                 """,
-                (l_id, v_num, verse)
+                    (l_id, v_num),
+                ).fetchone()[0]
+                conn.execute(
+                    """
+                             INSERT INTO "VerseText" ("translation_id", verse_id, verse)
+                             VALUES (
+                             (SELECT id from "Translation" where name='TOVBSI'),
+                             %s, %s)
+                             """,
+                    (v_id, verse),
                 )
     conn.commit()
 
@@ -315,7 +330,9 @@ add_translation(
         "description": """Published by "The Bible Society of India and Ceylon".\nDigitization done by The Free Bible Foundation (TFBF) volunteers.\nGitHub source can be found at "https://github.com/tfbf/Bible-Tamil-Sathiyavedam-1957".\nScanned Images can be found at "https://archive.org/details/Tamil-Bible-BSI-OV-1957".""",
     }
 )
-insert_tam_books()
+insert_books()
+
+insert_translational_names()
 
 insert_verses()
 
