@@ -5,7 +5,7 @@ Digital copy of the Tamil Bible Old Version published by Bible Society of India 
 
 The scanned images can also be downloaded using this gdrive [link](https://drive.google.com/file/d/1_G8PduboknVhgmhWrBeTTTOntTScbgj6/view?usp=sharing).
 
-Original repository from which this is forked can be found [here](https://github.com/tfbf/Bible-Tamil-Sathiyavedam-1957)
+Original repository from which this is forked from can be found [here](https://github.com/tfbf/Bible-Tamil-Sathiyavedam-1957)
 
 ## Code
 
