@@ -8,7 +8,7 @@ book_div = {
         "Exodus",
         "Leviticus",
         "Numbers",
-        "Deutronomy",
+        "Deuteronomy",
     ],
     "HistoricalBook": [
         "Joshua",
